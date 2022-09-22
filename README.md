@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Igor-R-Amorim/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/114179416/191822394-7bf8e160-54b5-4a45-bbc8-0f4d3e470b14.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor R. Amorim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Igor-R-Amorim&color=yellow" alt="Profile views" /> </p>
 
