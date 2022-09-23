@@ -78,10 +78,10 @@
 </p> 
 <div align="center">
   <a href="https://github.com/Igor-R-Amorim">
-  <img width="460em" height="160em" 
+  <img width="400em" height="150em" 
    src="https://github-readme-stats.vercel.app/api?username=Igor-R-Amorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-  <img width="460em" height="160em" 
+  <img width="400em" height="150em" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-R-Amorim&layout=compact&langs_count=7&theme=tokyonight"
   />
 
