@@ -84,6 +84,9 @@
   <img width="460em" height="160em" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-R-Amorim&layout=compact&langs_count=7&theme=tokyonight"
   />
-</div>
 
 ![Snake animation](https://github.com/Igor-R-Amorim/Igor-R-Amorim/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
