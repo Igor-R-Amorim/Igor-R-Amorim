@@ -3,7 +3,7 @@
      align="right" 
      height="110em" 
      style="border:5px solid black"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Rocha Amorim</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px">, I'm Igor Rocha Amorim</h1>
 
 - 👀 I’m interested in Data Engineer, ETL, BigData, Pipeline and Cloud solutions.</p>
 
