@@ -56,6 +56,9 @@
        width="40"/>
 </div>   
 
+<img align="right" width="250em" height="175em" 
+     src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/60c0fd792ce9c0516a756671_Software%20engineer.gif">
+     
 - 🌆 I’m looking to collaborate on community with simple and descriptive codes, that i'm using to improve my studies
 
 - 📬 How to reach me: 
@@ -70,7 +73,6 @@
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
      </a>
 </div>   
-<img src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/60c0fd792ce9c0516a756671_Software%20engineer.gif">
 
 ## 
 
