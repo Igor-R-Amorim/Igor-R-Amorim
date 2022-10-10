@@ -70,6 +70,7 @@
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
      </a>
 </div>   
+<img src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/60c0fd792ce9c0516a756671_Software%20engineer.gif">
 
 ## 
 
