@@ -74,7 +74,7 @@
      </a>
 </div>   
 
-## 
+#
 
 <p align="left"> 
      <img src="https://komarev.com/ghpvc/?username=Igor-R-Amorim&color=blue" alt="Profile views" /> 
